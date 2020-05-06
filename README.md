@@ -9,6 +9,6 @@
   + 第三人称视角动作游戏
 ## 人物设计
 - [ ] [普通怪](https://github.com/dongbeiyewu/dictator/blob/master/%E5%8F%A4%E4%BB%A3%E4%BA%BA%E7%89%A9/%E6%99%AE%E9%80%9A%E6%80%AA.md)
-- [ ] [弓箭手]()
+- [ ] [弓箭手](https://github.com/dongbeiyewu/dictator/blob/master/%E5%8F%A4%E4%BB%A3%E4%BA%BA%E7%89%A9/%E5%BC%93%E7%AE%AD%E6%89%8B.md)
 - [ ] [科学家](https://github.com/dongbeiyewu/dictator/blob/master/%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%89%A9/%E7%A7%91%E5%AD%A6%E5%AE%B6.md)
 - [ ] [魔法师](https://github.com/dongbeiyewu/dictator/blob/master/%E5%8F%A4%E4%BB%A3%E4%BA%BA%E7%89%A9/%E9%AD%94%E6%B3%95%E5%B8%88.md)
